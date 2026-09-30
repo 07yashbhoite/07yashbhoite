@@ -312,7 +312,6 @@ Open To:
   - Engineering conversations and mentorship
 ```
 
----
 
 ## Connect
 
