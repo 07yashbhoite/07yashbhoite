@@ -270,23 +270,7 @@ Supported data-driven applications through database design and query engineering
 
 ---
 
-## GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=07yashbhoite&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=07yashbhoite&bg_color=0d1117&color=a78bfa&line=6366f1&point=e0e7ff&area=true&area_color=4c1d95&hide_border=true" width="100%" />
-
-</div>
 
 ---
 
