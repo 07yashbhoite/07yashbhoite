@@ -346,7 +346,6 @@ Open To:
 <a href="mailto:yashbhoite07@gmail.com"><img src="https://img.shields.io/badge/Gmail-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/yash-bhoite/"><img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/07yashbhoite"><img src="https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/07yashbhoite"><img src="https://img.shields.io/badge/Portfolio-312e81?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
 
