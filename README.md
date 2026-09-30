@@ -7,14 +7,12 @@
 </a>
 
 <p>
-  <code>Python</code> &nbsp;·&nbsp; <code>FastAPI</code> &nbsp;·&nbsp; <code>AWS</code> &nbsp;·&nbsp; <code>PostgreSQL</code> &nbsp;·&nbsp; <code>LLM Systems</code>
+  <code>Python</code> &nbsp;·&nbsp; <code>AI Systems</code> &nbsp;·&nbsp; <code>AWS</code> &nbsp;·&nbsp; <code>PostgreSQL</code> &nbsp;·&nbsp; <code>LLM Systems</code>
 </p>
 
 <p>
-  <a href="https://github.com/07yashbhoite"><img src="https://img.shields.io/badge/Portfolio-4c1d95?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yash-bhoite/"><img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:yashbhoite07@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/YashBhoite/"><img src="https://img.shields.io/badge/LeetCode-312e81?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 <p>
