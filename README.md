@@ -226,19 +226,19 @@ Supported data-driven applications through database design and query engineering
 
 **Google**
 
-[![](https://img.shields.io/badge/Introduction%20to%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/07yashbhoite)
+[![](https://img.shields.io/badge/Introduction%20to%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/295fe52d-45ff-445d-8ed0-0cd049b9bd6d/badges/5373805)
 
 **IIT Bombay**
 
-[![](https://img.shields.io/badge/Python%20Training%20Certification-6366f1?style=for-the-badge&logoColor=white)](https://github.com/07yashbhoite)
+[![](https://img.shields.io/badge/Python%20Training%20Certification-6366f1?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1DjJAxzVw3pxbPIRkUBi-iRHZRryWgzRX/view?usp=sharing)
 
 **Oracle**
 
-[![](https://img.shields.io/badge/Database%20Programming%20with%20SQL-7c3aed?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/07yashbhoite)
+[![](https://img.shields.io/badge/Database%20Programming%20with%20SQL-7c3aed?style=for-the-badge&logo=oracle&logoColor=white)](https://drive.google.com/file/d/1LqxTUY9OJsMEE6jOsqW36dXgJz0Ukj0w/view?usp=sharing)
 
 **Copyright**
 
-[![](https://img.shields.io/badge/Copyright%3A%20English%20to%20SQL%20Article-4c1d95?style=for-the-badge&logoColor=white)](https://github.com/07yashbhoite)
+[![](https://img.shields.io/badge/Copyright%3A%20English%20to%20SQL%20Article-4c1d95?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1Ypvsc3u8QQ5yVNHDRQ8ThLkEPGA64BXN/view?usp=sharing)
 
 ---
 
@@ -247,7 +247,7 @@ Supported data-driven applications through database design and query engineering
 <div align="center">
 
 <a href="https://leetcode.com/u/YashBhoite/"><img src="https://img.shields.io/badge/LeetCode-4c1d95?style=for-the-badge&logo=leetcode&logoColor=white" height="42" /></a>
-<a href="https://www.geeksforgeeks.org/user/yashbhoite07/"><img src="https://img.shields.io/badge/GeeksforGeeks-6366f1?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="42" /></a>
+<a href="https://www.geeksforgeeks.org/profile/yashbho6xhi"><img src="https://img.shields.io/badge/GeeksforGeeks-6366f1?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="42" /></a>
 <a href="https://www.hackerrank.com/profile/yashbhoite07"><img src="https://img.shields.io/badge/HackerRank-7c3aed?style=for-the-badge&logo=hackerrank&logoColor=white" height="42" /></a>
 <a href="https://www.codechef.com/users/yashbhoite07"><img src="https://img.shields.io/badge/CodeChef-312e81?style=for-the-badge&logo=codechef&logoColor=white" height="42" /></a>
 
