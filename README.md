@@ -1,18 +1,361 @@
-# About Me:
-Hi, I’m Yash.<br><br>I’m a Computer Science student focused on building practical AI and ML systems, with an emphasis on<br>LLMs, data-driven modeling, and backend integration. I care about models that actually work in<br>production, not just notebooks.<br><br>I’m currently working on LLM-based projects including Text-to-SQL systems and ML-driven analytics  <br>I’m looking to collaborate on AI/ML projects, especially those involving real datasets or deployment  <br>I’m looking for help with evaluating LLM outputs, prompt optimization, and model fine-tuning  <br>I’m currently learning LLM internals, embeddings, RAG pipelines, and scalable ML workflows  <br>Ask me about ML project design, Python-based ML pipelines, SQL + AI integration, or model evaluation  <br>Fun fact: I’m more interested in *why a model fails* than when it succeeds<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4c1d95,100:6366f1&height=220&section=header&text=Yash%20Bhoite&fontSize=60&fontColor=e0e7ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Automation%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-bhoite/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashbhoite07@gmail.com) 
+<a href="https://github.com/07yashbhoite">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+Aspiring+AI+%2F+Automation+Engineer;Building+Secure+AI-Powered+Compliance+Platforms;Serverless+Pipelines+%E2%80%A2+Text-to-SQL+%E2%80%A2+LLM+Systems;Python+%E2%80%A2+FastAPI+%E2%80%A2+AWS+%E2%80%A2+React" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=07yashbhoite&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=07yashbhoite&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=07yashbhoite&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://img.shields.io/badge/B.E.%20Computer%20Engineering-4c1d95?style=for-the-badge&logo=googlescholar&logoColor=e0e7ff" />
+<img src="https://img.shields.io/badge/PCCOER%20%7C%20Pune%20University-6366f1?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-7.3-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Class%20of-2026-312e81?style=for-the-badge" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<img src="https://img.shields.io/badge/Pune%2C%20Maharashtra-India-8b5cf6?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/07yashbhoite"><img src="https://img.shields.io/badge/Portfolio-4c1d95?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yash-bhoite/"><img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yashbhoite07@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/07yashbhoite"><img src="https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=07yashbhoite&label=Profile%20Views&color=6366f1&style=flat-square" />
+<img src="https://img.shields.io/github/followers/07yashbhoite?label=Followers&style=flat-square&color=8b5cf6&labelColor=0d1117" />
+<img src="https://img.shields.io/github/stars/07yashbhoite?label=Stars&style=flat-square&color=7c3aed&labelColor=0d1117" />
+
+</div>
+
+---
+
+## About
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  Software Engineer  •  AI/ML  •  Full Stack  •  Automation          │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+I am a software engineer who designs and ships production-minded systems, with a focus on secure, reliable, and maintainable software. My work spans AI-assisted document intelligence, event-driven serverless pipelines, and full-stack web applications.
+
+- **Software Engineering:** Strong foundations in data structures, algorithms, OOP, DBMS, REST API design, and SDLC practices, applied through clean architecture, automated testing, and CI/CD.
+- **AI / ML:** Hands-on with LLM integration, prompt and rule-grounded analysis, retrieval with vector search, and classical ML using Scikit-learn.
+- **Full Stack Development:** End-to-end delivery from React.js and Flask/FastAPI services to relational and NoSQL data layers.
+- **Product Engineering Mindset:** I build around user workflows, privacy, failure handling, and measurable outcomes, not just features.
+
+**Open To**
+
+| | |
+|:--|:--|
+| **Roles** | Software Engineer, AI Engineer, Automation Engineer, Backend Engineer |
+| **Engagements** | Full-time roles, internships, open-source collaboration |
+| **Interests** | LLM applications, AI compliance tooling, serverless architectures, data platforms |
+
+---
+
+## Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
+  <img src="https://img.shields.io/badge/SQL-4c1d95?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
+  <img src="https://img.shields.io/badge/EJS-6366f1?style=flat-square&logo=ejs&logoColor=white" />
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,mongodb,sqlite,dynamodb&theme=dark" />
+  <img src="https://img.shields.io/badge/SQL%20Server-7c3aed?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+**Cloud, DevOps & Tooling**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,githubactions,postman,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/Streamlit-6366f1?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
+
+**AI / ML Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,opencv&theme=dark" />
+  <img src="https://img.shields.io/badge/LangChain-4c1d95?style=flat-square&logo=langchain&logoColor=white" />
+</p>
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|:--|:--:|:--|
+| **LLM Applications** | ![](https://img.shields.io/badge/Advanced-6366f1?style=flat-square) | Gemini and Groq API integration, rule-grounded analysis, structured outputs, retry/backoff and graceful failure handling |
+| **AI Compliance & Privacy** | ![](https://img.shields.io/badge/Advanced-6366f1?style=flat-square) | PII masking before LLM processing, structured compliance flagging, AI-result caching |
+| **Retrieval & Vector Search** | ![](https://img.shields.io/badge/Intermediate-8b5cf6?style=flat-square) | PostgreSQL with Pgvector, embedding-backed lookup for grounded responses |
+| **Text-to-SQL** | ![](https://img.shields.io/badge/Advanced-6366f1?style=flat-square) | Natural language to SQL with a Generate → Review → Execute workflow |
+| **Classical ML** | ![](https://img.shields.io/badge/Intermediate-8b5cf6?style=flat-square) | Scikit-learn, TF-IDF, Naive Bayes, Random Forest, cosine similarity |
+| **Document & OCR Automation** | ![](https://img.shields.io/badge/Intermediate-8b5cf6?style=flat-square) | AI/OCR extraction into structured, normalized records |
+| **Computer Vision** | ![](https://img.shields.io/badge/Foundational-7c3aed?style=flat-square) | OpenCV and image-processing fundamentals |
+
+---
+
+## Featured Projects
+
+<details open>
+<summary><b>Compliance Document Review Platform</b></summary>
+
+<br/>
+
+An AI-powered platform that streamlines advisor submissions and compliance-officer approvals through automated document analysis and structured compliance flagging.
+
+| | |
+|:--|:--|
+| **Stack** | Python, FastAPI, PostgreSQL, Pgvector, Gemini API, Docker, pytest, GitHub Actions |
+| **Scale** | Multi-role workflow covering advisor submissions and compliance-officer review |
+| **Performance** | AI-result caching for consistent, efficient repeat reviews; retry/backoff on LLM calls |
+| **Security** | PII masking pipeline removes names, emails, account numbers, and financial data before LLM processing |
+| **Impact** | Faster, more consistent compliance review with rule-grounded flags and summaries |
+| **Repository** | [github.com/07yashbhoite](https://github.com/07yashbhoite) |
+
+The platform isolates sensitive data before any model call, then uses Google Gemini to produce rule-grounded flags and summaries. Graceful API failure handling keeps the review workflow dependable. CI is handled by GitHub Actions and the service is containerized with Docker.
+
+</details>
+
+<details>
+<summary><b>Automating Life with AWS: Serverless Data Pipeline</b></summary>
+
+<br/>
+
+A fully automated, event-driven pipeline that turns uploaded documents into structured data and delivers summaries by email.
+
+| | |
+|:--|:--|
+| **Stack** | AWS Lambda, S3, DynamoDB, SES, IAM, Python |
+| **Scale** | Event-driven, serverless execution triggered per upload |
+| **Performance** | Fault-tolerant retry logic for high availability |
+| **Security** | IAM least-privilege roles |
+| **Impact** | End-to-end automation from upload to summarized delivery with no manual steps |
+| **Repository** | [github.com/07yashbhoite](https://github.com/07yashbhoite) |
+
+An S3 upload triggers Lambda, AI/OCR extracts structured data, DynamoDB stores normalized records, and SES delivers automated summaries. CloudWatch-compatible logging and error handling support monitoring, alerting, and incident resolution.
+
+</details>
+
+<details>
+<summary><b>QueryMind: Text-to-SQL System</b></summary>
+
+<br/>
+
+A full-stack web application that converts natural language questions into SQL queries through a controlled, reviewable workflow.
+
+| | |
+|:--|:--|
+| **Stack** | Python, Flask, Groq API, Scikit-learn, SQLite, MySQL, PostgreSQL |
+| **Scale** | Multi-database support across SQLite, MySQL, and PostgreSQL |
+| **Performance** | Three local ML models run alongside the LLM for fast intent and suggestion handling |
+| **Security** | Two-step Generate → Review → Execute flow prevents blind query execution |
+| **Impact** | Lowers the barrier to querying relational data in plain English |
+| **Repository** | [github.com/07yashbhoite](https://github.com/07yashbhoite) |
+
+The system combines a Naive Bayes intent classifier (TF-IDF), a Random Forest success predictor, and a TF-IDF cosine-similarity query suggester. Users review generated SQL before it is executed.
+
+</details>
+
+---
+
+## Experience
+
+### AI Intern &nbsp;|&nbsp; Springer Capital, Shanghai (Remote)
+`July 2026 — Oct 2026`
+
+Worked on an AI-powered compliance and document review platform for financial advisory workflows.
+
+- Developed the platform to streamline advisor submissions and compliance-officer approvals
+- Built automated document analysis with structured compliance flagging
+- Implemented PII isolation to protect sensitive data in AI-assisted reviews
+- Added AI-result caching to improve consistency and efficiency
+
+![](https://img.shields.io/badge/Python-4c1d95?style=flat-square)
+![](https://img.shields.io/badge/FastAPI-6366f1?style=flat-square)
+![](https://img.shields.io/badge/LLMs-7c3aed?style=flat-square)
+![](https://img.shields.io/badge/PII%20Masking-8b5cf6?style=flat-square)
+![](https://img.shields.io/badge/Compliance-312e81?style=flat-square)
+
+### SQL Intern &nbsp;|&nbsp; Celebal Technologies, Pune
+`June 2025 — Aug 2025`
+
+Supported data-driven applications through database design and query engineering.
+
+- Designed and optimized SQL queries and created stored procedures
+- Managed relational databases for business use cases
+- Applied data modeling, performance tuning, and data integrity practices
+
+![](https://img.shields.io/badge/SQL-4c1d95?style=flat-square)
+![](https://img.shields.io/badge/Stored%20Procedures-6366f1?style=flat-square)
+![](https://img.shields.io/badge/Data%20Modeling-7c3aed?style=flat-square)
+![](https://img.shields.io/badge/Performance%20Tuning-8b5cf6?style=flat-square)
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:--|:--|
+| **Copyright Registration** | Copyright on a literary article about converting English commands into SQL queries |
+| **Generative AI** | Completed Introduction to Generative AI, Google |
+| **Python Certification** | Python Training Certification, IIT Bombay |
+| **Database Certification** | Database Programming with SQL, Oracle Academy |
+| **Engineering Degree** | B.E. Computer Engineering, Pune University, 7.3 CGPA (2026) |
+| **Applied AI Projects** | Three production-style projects across compliance AI, serverless, and Text-to-SQL |
+
+</div>
+
+---
+
+## Certifications
+
+**Google**
+
+[![](https://img.shields.io/badge/Introduction%20to%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/07yashbhoite)
+
+**IIT Bombay**
+
+[![](https://img.shields.io/badge/Python%20Training%20Certification-6366f1?style=for-the-badge&logoColor=white)](https://github.com/07yashbhoite)
+
+**Oracle**
+
+[![](https://img.shields.io/badge/Database%20Programming%20with%20SQL-7c3aed?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/07yashbhoite)
+
+**Copyright**
+
+[![](https://img.shields.io/badge/Copyright%3A%20English%20to%20SQL%20Article-4c1d95?style=for-the-badge&logoColor=white)](https://github.com/07yashbhoite)
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/YashBhoite/"><img src="https://img.shields.io/badge/LeetCode-4c1d95?style=for-the-badge&logo=leetcode&logoColor=white" height="42" /></a>
+<a href="https://www.geeksforgeeks.org/user/yashbhoite07/"><img src="https://img.shields.io/badge/GeeksforGeeks-6366f1?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="42" /></a>
+<a href="https://www.hackerrank.com/profile/yashbhoite07"><img src="https://img.shields.io/badge/HackerRank-7c3aed?style=for-the-badge&logo=hackerrank&logoColor=white" height="42" /></a>
+<a href="https://www.codechef.com/users/yashbhoite07"><img src="https://img.shields.io/badge/CodeChef-312e81?style=for-the-badge&logo=codechef&logoColor=white" height="42" /></a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=07yashbhoite&show_icons=true&hide_border=true&theme=midnight-purple&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c7d2fe&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=07yashbhoite&layout=compact&hide_border=true&theme=midnight-purple&bg_color=0d1117&title_color=a78bfa&text_color=c7d2fe&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=07yashbhoite&theme=midnight-purple&hide_border=true&background=0d1117&stroke=6366f1&ring=8b5cf6&fire=a78bfa&currStreakLabel=c7d2fe&sideLabels=c7d2fe&currStreakNum=e0e7ff&sideNums=e0e7ff&dates=a5b4fc" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=07yashbhoite&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=07yashbhoite&bg_color=0d1117&color=a78bfa&line=6366f1&point=e0e7ff&area=true&area_color=4c1d95&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/07yashbhoite/07yashbhoite/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/07yashbhoite/07yashbhoite/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/07yashbhoite/07yashbhoite/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - LLM application design and evaluation
+  - Retrieval pipelines with vector databases
+  - Production-grade cloud architecture on AWS and GCP
+
+Building:
+  - AI-powered compliance and document review tooling
+  - Serverless, event-driven data pipelines
+  - Text-to-SQL and natural language data interfaces
+
+Exploring:
+  - Agentic workflows and LangChain-based automation
+  - Privacy-preserving AI patterns, including PII isolation
+  - CI/CD and testing practices for AI systems
+
+Open To:
+  - Software Engineer / AI Engineer / Automation Engineer roles
+  - Open-source collaboration
+  - Engineering conversations and mentorship
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:yashbhoite07@gmail.com"><img src="https://img.shields.io/badge/Gmail-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yash-bhoite/"><img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/07yashbhoite"><img src="https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/07yashbhoite"><img src="https://img.shields.io/badge/Portfolio-312e81?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<i>"Build systems that are secure by design, simple to operate, and useful from day one."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:4c1d95,100:0d1117&height=140&section=footer" width="100%" alt="footer" />
+
+</div>
