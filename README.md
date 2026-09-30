@@ -1,34 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4c1d95,100:6366f1&height=220&section=header&text=Yash%20Bhoite&fontSize=60&fontColor=e0e7ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Automation%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4c1d95,100:6366f1&height=200&section=header&text=Yash%20Bhoite&fontSize=56&fontColor=e0e7ff&fontAlignY=42" width="100%" alt="Yash Bhoite" />
 
 <a href="https://github.com/07yashbhoite">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+Aspiring+AI+%2F+Automation+Engineer;Building+Secure+AI-Powered+Compliance+Platforms;Serverless+Pipelines+%E2%80%A2+Text-to-SQL+%E2%80%A2+LLM+Systems;Python+%E2%80%A2+FastAPI+%E2%80%A2+AWS+%E2%80%A2+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=40&lines=Software+Engineer+%E2%80%94+AI+%26+Automation+Systems;Secure+LLM+Platforms+%E2%80%A2+Serverless+Pipelines+%E2%80%A2+Data+Interfaces" alt="Typing SVG" />
 </a>
 
-<br/>
+<p>
+  <code>Python</code> &nbsp;·&nbsp; <code>FastAPI</code> &nbsp;·&nbsp; <code>AWS</code> &nbsp;·&nbsp; <code>PostgreSQL</code> &nbsp;·&nbsp; <code>LLM Systems</code>
+</p>
 
-<img src="https://img.shields.io/badge/B.E.%20Computer%20Engineering-4c1d95?style=for-the-badge&logo=googlescholar&logoColor=e0e7ff" />
-<img src="https://img.shields.io/badge/PCCOER%20%7C%20Pune%20University-6366f1?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/CGPA-7.3-7c3aed?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Class%20of-2026-312e81?style=for-the-badge" />
+<p>
+  <a href="https://github.com/07yashbhoite"><img src="https://img.shields.io/badge/Portfolio-4c1d95?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yash-bhoite/"><img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yashbhoite07@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/YashBhoite/"><img src="https://img.shields.io/badge/LeetCode-312e81?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Pune%2C%20Maharashtra-India-8b5cf6?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/07yashbhoite"><img src="https://img.shields.io/badge/Portfolio-4c1d95?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/yash-bhoite/"><img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:yashbhoite07@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/07yashbhoite"><img src="https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=07yashbhoite&label=Profile%20Views&color=6366f1&style=flat-square" />
-<img src="https://img.shields.io/github/followers/07yashbhoite?label=Followers&style=flat-square&color=8b5cf6&labelColor=0d1117" />
-<img src="https://img.shields.io/github/stars/07yashbhoite?label=Stars&style=flat-square&color=7c3aed&labelColor=0d1117" />
+<p>
+  <img src="https://img.shields.io/badge/Based%20in-Pune%2C%20India-1e1b4b?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-6366f1?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/07yashbhoite?label=Followers&style=flat-square&color=7c3aed&labelColor=0d1117" />
+</p>
 
 </div>
 
