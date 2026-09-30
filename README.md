@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <code>Python</code> &nbsp;·&nbsp; <code>AI Systems</code> &nbsp;·&nbsp; <code>AWS</code> &nbsp;·&nbsp; <code>PostgreSQL</code> &nbsp;·&nbsp; <code>LLM Systems</code>
+  <code>Python</code> &nbsp;·&nbsp; <code>AI Systems</code> &nbsp;·&nbsp; <code>AWS</code> &nbsp;·&nbsp; <code>SQL</code> &nbsp;·&nbsp; <code>LLM Systems</code>
 </p>
 
 <p>
